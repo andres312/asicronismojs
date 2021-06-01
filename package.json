@@ -1,0 +1,17 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "working async in javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "git": "https://github.com/andres312/asicronismojs.git",
+  "author": "ANDRES RODRIGUEZ",
+  "license": "MIT"
+}
